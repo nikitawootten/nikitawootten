@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I currently work at [NIST](https://www.nist.gov/) on the [OSCAL team](https://pages.nist.gov/OSCAL/). See my work account [@nikitawootten-nist](https://github.com/nikitawootten-nist).
+- 🌱 I'm currently learning about orchestration systems, reproducible build systems, Rust, and WASM.
+- 📫 Feel free to contact me about anything! See contact links on my site [nikita.computer](nikita.computer).
+
+Looking for dotfiles?
+They're certainly a good way to see how someone thinks.
+Check out [`nikitawootten/infra`](https://github.com/nikitawootten/infra).
