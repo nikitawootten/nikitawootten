@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I currently work at [NIST](https://www.nist.gov/) on the [OSCAL team](https://pages.nist.gov/OSCAL/). See my work account [@nikitawootten-nist](https://github.com/nikitawootten-nist).
-- 🌱 I'm currently learning about orchestration systems, reproducible build systems, Rust, and WASM.
-- 📫 Feel free to contact me about anything! See contact links on my site [nikita.computer](https://nikita.computer).
+- 🔭 I'm currently a software engineer at [Kanary](https://www.kanary.com/).
+- 🌱 I'm currently learning about reproducible build systems like Nix, orchestration systems, Rust, and WASM.
+- 📫 Have a question or comment? See contact links on my site [nikita.computer](https://nikita.computer).
 
 Looking for dotfiles?
-They're certainly a good way to see how someone thinks.
+I think they're a great way to see how someone thinks.
 Check out [`nikitawootten/infra`](https://github.com/nikitawootten/infra).
